@@ -1,0 +1,6 @@
+com\pages\LoginPage.class
+com\pages\ProductPage.class
+com\StepDefnitions\loginPageSteps.class
+com\pages\PaymentPage.class
+com\StepDefnitions\PaymentPageSteps.class
+com\runner\TestRunner.class
